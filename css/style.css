@@ -11,3 +11,8 @@ body {
 #canvas {
     background-image: url(../images/swirl_pattern.png);
 }
+
+@font-face {
+font-family: Segment7Standard;
+src: url(../fonts/Segment7Standard.otf) format("opentype");
+}
