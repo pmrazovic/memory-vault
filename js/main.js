@@ -267,17 +267,17 @@ window.onload = function () {
             ctx.fillStyle = "white";
             ctx.textAlign = "center";
             ctx.fillText(TIZEN_L10N["level"] + " " + level, cW/2,cH/2 - 120);
-            
-            ctx.font = "20px Helvetica";
+           
+            ctx.font = "bold 16px Helvetica";
             ctx.fillStyle = "white";
             ctx.textAlign = "center";
-            ctx.fillText(TIZEN_L10N["new_code"], cW/2,cH/2 - 80);
+            ctx.fillText(TIZEN_L10N["tap_ready"], cW/2,cH/2 - 90);
             
             ctx.font = "25px Helvetica";
             ctx.fillStyle = "white";
             ctx.textAlign = "center";
             wrapText(combinationNumbers.join(", "), cW/2,cH/2, 250, 25)
-            
+
             ctx.font = "14px Helvetica";
             ctx.fillStyle = "white";
             ctx.textAlign = "center";

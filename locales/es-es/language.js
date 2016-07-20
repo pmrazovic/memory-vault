@@ -2,13 +2,12 @@
 
 TIZEN_L10N=
 {
-	"tap_to_play" : "Tap to play...",
-	"instructions" : "Instructions",
-	"memorize" : "Memorize sequence of numbers and use it to open dial combination lock.",
-	"level" : "Level",
-	"new_code" : "New code",
-	"tap_ready" : "Tap when you are ready...",
-	"dial" : "Enter the code by rotating the combination dial. Change rotation direction to move to the next digit.",
-	"wrong_code" : "You've dialed the wrong code!",
-	"correct_code" : "Correct code"
+	"tap_to_play" : "Pulsa para jugar...",
+	"instructions" : "Instrucciones",
+	"memorize" : "Memoriza la secuencia de números y ponla para desbloquear la caja.",
+	"level" : "Nivel",
+	"tap_ready" : "Pula cuando estés listo...",
+	"dial" : "Entra el código rotando el dial. Cambia la dirección de la rotación para moverte al siguiente dígito.",
+	"wrong_code" : "Has marcado un código incorrecto!",
+	"correct_code" : "Código correcto"
 };
